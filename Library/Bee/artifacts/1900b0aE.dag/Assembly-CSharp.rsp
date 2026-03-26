@@ -430,7 +430,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/CameraMount.cs"
+"Assets/Scripts/CameraMovement.cs"
 "Assets/Scripts/CameraShake.cs"
+"Assets/Scripts/Gun.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Rotator.cs"
 -langversion:9.0
